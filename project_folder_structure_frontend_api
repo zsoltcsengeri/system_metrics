@@ -1,0 +1,16 @@
+project-root/
+│
+├── backend/                # FastAPI app
+│   ├── main.py             # FastAPI entry point
+│   └── metrics.py          # Logic to collect system metrics
+│
+├── frontend/               # Static HTML/JS files
+│   ├── index.html          # Dashboard page
+│   └── script.js           # Fetch metrics and update UI
+│
+├── static/ (optional)      # Copy of frontend to serve via FastAPI
+│   └── (same as frontend/)
+│
+├── requirements.txt        # For FastAPI and psutil
+└── README.md
+
