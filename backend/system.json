@@ -1,16 +1,16 @@
 {
   "CPU": {
-    "cpu_percentage": 6.4
+    "cpu_percentage": 14.4
   },
   "MEMORY": {
     "total_mb": 167.88,
-    "used_mb": 9541.58,
-    "available_mb": 6545.48,
-    "percent": 59.3
+    "used_mb": 11161.41,
+    "available_mb": 4925.64,
+    "percent": 69.4
   },
   "DISK": {
-    "disk": 38.5,
-    "used_mb": 187623.4
+    "disk": 38.4,
+    "used_mb": 187192.45
   },
-  "timestamp": "2025-06-05T22:46:00.960878"
+  "timestamp": "2025-06-08T17:47:37.477781"
 }
